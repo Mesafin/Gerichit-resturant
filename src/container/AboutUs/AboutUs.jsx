@@ -12,7 +12,7 @@ const AboutUs = () => (
       <div className="app__aboutus-content_about">
         <h1 className="headtext__cormorant">About Us</h1>
         <img src={images.spoon} alt="about_spoon" className="spoon__img" />
-        <p className="p__opensans">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quis pharetra adipiscing ultrices vulputate posuere tristique. In sed odio nec aliquet eu proin mauris et.</p>
+        <p className="p__opensans">Our Team Is Dedicated To Delivering Exceptional Culinary Delights That Leave A Lasting Impression. Join Us On A Gastronomic Journey That Celebrates The Art Of Food And The Joy Of Shared Moments.</p>
         <button type="button" className="custom__button">Know More</button>
       </div>
 
@@ -23,7 +23,7 @@ const AboutUs = () => (
       <div className="app__aboutus-content_history">
         <h1 className="headtext__cormorant">Our History</h1>
         <img src={images.spoon} alt="about_spoon" className="spoon__img" />
-        <p className="p__opensans">Adipiscing tempus ullamcorper lobortis odio tellus arcu volutpat. Risus placerat morbi volutpat habitasse interdum mi aliquam In sed odio nec aliquet.</p>
+        <p className="p__opensans">Our Story Began With A Shared Love For Exceptional Cuisine And A Dream To Create A Dining Destination Unlike Any Other. Founded By Chef Kevin, Gericht Is The Culmination Of Their Culinary Expertise And Unwavering Passion.</p>
         <button type="button" className="custom__button">Know More</button>
       </div>
     </div>

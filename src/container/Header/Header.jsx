@@ -9,7 +9,7 @@ const Header = () => (
     <div className="app__wrapper_info">
       <SubHeading title="Chase the new flavour" />
       <h1 className="app__header-h1">The Key To Fine Dining</h1>
-      <p className="p__opensans" style={{ margin: '2rem 0' }}>Sit tellus lobortis sed senectus vivamus molestie. Condimentum volutpat morbi facilisis quam scelerisque sapien. Et, penatibus aliquam amet tellus </p>
+      <p className="p__opensans" style={{ margin: '2rem 0' }}>At Gericht, We Are Passionate About Creating Unforgettable Dining Experiences. Our Menu Combines Global Flavors With Locally Sourced Ingredients, Crafted With Meticulous Attention To Detail. Led By Kevin Luo, Our Team Is Dedicated To Delivering Exceptional Culinary Delights That Leave A Lasting Impression. </p>
       <button type="button" className="custom__button">Explore Menu</button>
     </div>
 
